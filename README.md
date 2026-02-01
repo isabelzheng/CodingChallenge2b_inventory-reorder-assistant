@@ -1,3 +1,3 @@
-# Coding Challenge #2
+# Coding Challenge #2b
 
-Answers for Coding Challenge #2
+Answers for Coding Challenge #2b
